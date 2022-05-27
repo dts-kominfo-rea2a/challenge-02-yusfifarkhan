@@ -30,7 +30,7 @@ function lakukanLooping(arrPegawai) {
   for (let i = 0; i < dataYangAkanDilooping.length; i++) {
     // hasilLooping.push(dataYangAkanDilooping[1])
     // console.log(dataYangAkanDilooping[i].namaDepan + ", " + dataYangAkanDilooping[i].namaBelakang)
-    hasilLooping.push(dataYangAkanDilooping[i].namaDepan + ", " + dataYangAkanDilooping[i].namaBelakang);    
+    hasilLooping.push(dataYangAkanDilooping[i].namaDepan + " " + dataYangAkanDilooping[i].namaBelakang);    
   }
 
   /*
